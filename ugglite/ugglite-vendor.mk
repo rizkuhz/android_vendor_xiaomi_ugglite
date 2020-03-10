@@ -2379,7 +2379,7 @@ PRODUCT_PACKAGES += \
     IWlanService \
     dpmserviceapp \
     qcrilmsgtunnel \
-    PowerOffAlarm \
     TimeService \
+    PowerOffAlarm \
     dpmserviceapp \
     ims
